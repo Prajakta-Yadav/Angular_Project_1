@@ -1,0 +1,33 @@
+
+.main-container {
+  display: flex;
+  justify-content: center;   /* horizontal center */
+  align-items: center;       /* vertical center */
+  min-height: 100vh;
+}
+
+.Card-UI {
+  width: 500px;
+}
+
+
+.btn{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.text-style{
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+  
+   
+}
+
+.input-style{
+    padding: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
